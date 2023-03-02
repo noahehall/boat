@@ -1,0 +1,36 @@
+## @see https://github.com/nim-lang/Nim/blob/devel/.gitignore
+# setup
+*
+!*.*
+!**/
+
+# ignore
+.*/
+.DS_Store
+.tags
+*.log
+*megatest*
+*nimcache
+~*
+bin/*
+outputExpected.txt
+outputGotten.txt
+testresults
+
+# allow
+!/.builds/
+!/.github
+!/icons/*.o
+!/nimdoc/testproject/expected/*
+
+
+## internal
+# ignore
+*.deps
+nimble.develop
+nimble.paths
+*.out
+
+# allow
+!tests/skip
+!LICENSE
