@@ -3,4 +3,4 @@ NIRVAI - Captains
 
 About
 -----
-- personas for nirvai installers & scripts
+- personas for nirvai transports & workflows

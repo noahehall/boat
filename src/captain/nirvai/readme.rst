@@ -3,4 +3,4 @@ NIRVAI - Captain NIRVAI
 
 About
 -----
-- installers and scripts for bizdevops+sec teams
+- transports and workflows for bizdevops+sec teams

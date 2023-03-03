@@ -3,4 +3,4 @@ NIRVAI - Captain Operator
 
 About
 -----
-- operator installers & scripts
+- operator transports and workflows

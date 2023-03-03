@@ -3,4 +3,4 @@ NIRVAI - Captain Fireteam
 
 About
 -----
-- Fireteam installers & scripts
+- fireteam transports and workflows
