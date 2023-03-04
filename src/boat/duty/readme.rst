@@ -14,11 +14,8 @@ Interface
 - rm Script(Transport): bool
 - rmForce Script(Transport): bool
 - transport set[enum] supported by this duty
-- workflow
 
 
-Attributes
-----------
-- workflow
-
-  - X..Y Script
+Types
+-----
+- self of Script

@@ -17,3 +17,4 @@
   - nah this TODO doesnt make sense
 - i have a feeling we're going to regret using nimscript instead of just compiling to C
   - swing back to this once the ADRs stabilize and BEFORE moving repo to nirv
+  - upgrading from nimscript is straight forward; shouldnt be an issue when the time comes
