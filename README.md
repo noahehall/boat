@@ -7,6 +7,13 @@
 
 ## todos
 
+- think there should be a distinct `captains.log.nims` in each captain directory consumed by a boat
+  - instead of trying to merge into a single compositive captains.log
+  - just track which captain provides and requires each X
+  - check if X is required/provided by more than 1 captain, and increment
+    - will guard against
+      - rolling back X if its required by more than 1 captain
+      - irrelevant installations of X if its already been provided
 - update bookofnims/.git{ignore,attributes} with this one
   - i think just the drawio extensions
 - move to nirvai once ADRs stabilize
