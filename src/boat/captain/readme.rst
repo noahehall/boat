@@ -3,4 +3,4 @@ Captains
 
 about
 -----
-- Create decks and workflows for humans and machines
+- example deployment of boat @ nirvai

@@ -1,0 +1,4 @@
+##
+## Duty
+## ====
+## Atomic actions

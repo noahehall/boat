@@ -10,6 +10,9 @@ FYIs
 
 Interface
 ---------
+- cost
+  - time: in MS, total time you must pay to execute this script
+  - space: in bytes, pretty sure we can diff a duf
 - provides set[cmd]
   - we need to track incase of rollback
   - if more than 1 script is `done` and provides this `cmd`, we shouldnt remove it

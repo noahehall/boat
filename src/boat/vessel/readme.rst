@@ -3,7 +3,7 @@ Vessel
 
 about
 -----
-- extendable default OS configurations
+- default OS configurations
 
 
 Interface
