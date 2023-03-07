@@ -25,3 +25,9 @@
 - i have a feeling we're going to regret using nimscript instead of just compiling to C
   - swing back to this once the ADRs stabilize and BEFORE moving repo to nirv
   - upgrading from nimscript is straight forward; shouldnt be an issue when the time comes
+  - nahh this is how it should work
+    - everything in src/private is compiled to C
+      - the core functionality should not be exposed to the limitations of nimscript
+    - everything not in src/private is a nimscript
+      - these are really just scripts anyway
+      - with attributes exposing fns and directives to be called by the compiled executor
