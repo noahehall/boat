@@ -1,4 +1,0 @@
-##
-## Vessel
-## ======
-## default OS configurations
