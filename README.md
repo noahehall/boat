@@ -1,5 +1,7 @@
 # boat
 
+- [moved to nirvai](https://github.com/nirv-ai/boat)
+
 > Bunch of Arbitrary Tasks.
 > Under the Captain's Command; the Gunner will shoot them down
 
